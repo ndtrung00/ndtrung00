@@ -23,7 +23,7 @@ Hi there! My name is Trung. I'm a passionate **Blockchain & Web3 Enthusiast** cu
 ## Get in Touch
 
 - 📧 Email: [trung.nd1409@gmail.com](mailto:trung.nd1409@gmail.com)
-- 💼 LinkedIn: [Trung Nguyen](https://www.linkedin.com/in/trungnguyensap/)
+- 💼 LinkedIn: [Trung Nguyen](https://www.linkedin.com/in/trungnguyenarctisai/)´
 - 🐦 Twitter: [capitalizedtom](https://twitter.com/capitalizedtom)
 
 ## GitHub Stats
