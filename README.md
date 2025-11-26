@@ -3,7 +3,7 @@
 Builder.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=trungnguyen1409&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/trungnguyen1409?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ndtrung00?style=social)
 
 ## Education
 
