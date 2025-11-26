@@ -16,4 +16,4 @@ Builder.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndtrung00&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ndtrung00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ndtrung00)](https://streak-stats.demolab.com/?user=ndtrung00)
