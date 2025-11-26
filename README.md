@@ -7,5 +7,5 @@ Builder.
 
 ## Education
 
-- 📖 **Master's in Computer Science**, Technical University of Munich + EPFL
-- 🎓 **Bachelor's in Computer Science**, Ludwig-Maximillian-University of Munich
+- 📖 **Master's in Computer Science**, Technical University of Munich (TUM) + EPFL
+- 🎓 **Bachelor's in Computer Science**, Ludwig-Maximillian-University of Munich (LMU) + Imperial College London
