@@ -12,10 +12,8 @@ Builder.
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=trungnguyen1409&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndtrung00&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trungnguyen1409&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndtrung00&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trungnguyen1409&theme=radical)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ndtrung00)](https://git.io/streak-stats)
